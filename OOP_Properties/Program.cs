@@ -8,7 +8,7 @@ namespace OOP_Properties
 {
     class Program
     {
-        //Unifinished
+        //Unifinished, does not respect limits in setter
         static void Main(string[] args)
         {
             Clock clock = new Clock();
